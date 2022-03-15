@@ -1,1 +1,1 @@
-# Tomato's paper management repository
+# Paper
