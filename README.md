@@ -11,4 +11,4 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
 ### How To Write Paper
-* [Science Research Writing for non-native speakers of English].(https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
+* [Science Research Writing for non-native speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
