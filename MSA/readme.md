@@ -3,7 +3,7 @@
 ### 综述
 - MSA: Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions https://w.sentic.net/multimodal-sentiment-analysis-review.pdf
 - NLP: Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective, https://arxiv.org/pdf/2409.07388
-- https://ieeexplore.ieee.org/document/10602503?denied=
+- A Systematic Review on Multimodal Emotion Recognition: Building Blocks, Current State, Applications, and Challenges, https://ieeexplore.ieee.org/document/10602503?denied=
 
 ####
 
