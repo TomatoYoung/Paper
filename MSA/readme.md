@@ -1,4 +1,9 @@
 # readme
+## 关注
+- 目标、背景/困难、动机
+- 提出了哪些方法
+- 在哪些数据集上做了实验
+
 ## 论文及链接
 ### 综述
 - MSA: Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions https://w.sentic.net/multimodal-sentiment-analysis-review.pdf
@@ -17,15 +22,16 @@
 Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution，https://arxiv.org/abs/2409.12191
 
 #### 多模态差异导致的噪声分析
-The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787
+- The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787（关于幻觉的定义参见：https://www.iguazio.com/glossary/llm-hallucination/）
 
 #### 模型低秩微调训练方法
 - LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
 - LoRA+: Efficient Low Rank Adaptation of Large Models, https://arxiv.org/abs/2402.12354
 
-### 工具
-#### 自编码器概述
+### 算法
+#### SAE算法
 - 自编码器AutoEncoder，降噪自编码器DAE，稀疏自编码器SAE，变分自编码器VAE 简介, https://www.cnblogs.com/jins-note/p/12883863.html
 - SAE, https://cdn.openai.com/papers/sparse-autoencoders.pdf, https://new.qq.com/rain/a/20240607A0101Q00
+- SAE算法用于可解释性, https://www.jiqizhixin.com/articles/2024-08-05-5
 
 
