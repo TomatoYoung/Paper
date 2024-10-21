@@ -25,6 +25,7 @@ The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Mod
 
 ### 工具
 #### 自编码器概述
-自编码器AutoEncoder，降噪自编码器DAE，稀疏自编码器SAE，变分自编码器VAE 简介, https://www.cnblogs.com/jins-note/p/12883863.html
+- 自编码器AutoEncoder，降噪自编码器DAE，稀疏自编码器SAE，变分自编码器VAE 简介, https://www.cnblogs.com/jins-note/p/12883863.html
+- SAE, https://view.inews.qq.com/k/20240607A0101Q00](https://cdn.openai.com/papers/sparse-autoencoders.pdf
 
 
