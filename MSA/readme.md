@@ -10,9 +10,8 @@
 ### 方法
 
 #### 数据集和评估集制作方案
-Aligned Better, Listen Better For Audio-Visual Large Language Models，https://openreview.net/forum?id=1SYUKPeM12
-
-Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis，https://arxiv.org/abs/2405.21075
+- Aligned Better, Listen Better For Audio-Visual Large Language Models，https://openreview.net/forum?id=1SYUKPeM12
+- Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis，https://arxiv.org/abs/2405.21075
 
 #### 模型指令微调方案
 Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution，https://arxiv.org/abs/2409.12191
@@ -21,12 +20,11 @@ Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resol
 The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787
 
 #### 模型低秩微调训练方法
-LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
-
-LoRA+: Efficient Low Rank Adaptation of Large Models, https://arxiv.org/abs/2402.12354
+- LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
+- LoRA+: Efficient Low Rank Adaptation of Large Models, https://arxiv.org/abs/2402.12354
 
 ### 工具
 #### 自编码器概述
-自编码器AutoEncoder，降噪自编码器DAE，稀疏自编码器SAE，变分自编码器VAE 简介 https://www.cnblogs.com/jins-note/p/12883863.html
+自编码器AutoEncoder，降噪自编码器DAE，稀疏自编码器SAE，变分自编码器VAE 简介, https://www.cnblogs.com/jins-note/p/12883863.html
 
 
