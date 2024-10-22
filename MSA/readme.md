@@ -22,7 +22,7 @@
 Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution，https://arxiv.org/abs/2409.12191
 
 #### 多模态差异导致的噪声分析
-- The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787 （关于幻觉的定义参见：https://www.iguazio.com/glossary/llm-hallucination/）
+- The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787 （关于幻觉的定义参见：https://www.iguazio.com/glossary/llm-hallucination/ ）
 
 #### 模型低秩微调训练方法
 - LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
