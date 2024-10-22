@@ -6,7 +6,7 @@
 #### 定义
 稀疏自编码算法，简称SAE
 #### 论文
-- 在国际象棋背景下讨论讨论如何通过语言模型的稀疏自编码器来提取可解释的潜在特征，
+- 在国际象棋背景下讨论如何通过语言模型的稀疏自编码器来提取可解释的潜在特征，
   Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models, https://arxiv.org/pdf/2408.00113
 - Sparse Autoencoders Find Highly Interpretable Features in Language Models, https://arxiv.org/abs/2309.08600
 #### 博客
