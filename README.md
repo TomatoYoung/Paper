@@ -11,8 +11,8 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ## How To Survey
 ### A Generic Document Matrix
-| 文献 | 研究目标 | 研究方法 | 主要结果 | 优点 | 缺点 | 相关性 |
-| --- | --- | --- | --- | --- | --- | --- |
+| 文献 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## How To Write Paper
 * [Science Research Writing for non-native speakers of English](https://redacaocientifica.weebly.com/uploads/6/0/2/2/60226751/science_writing_for_non-native_engish_speakers.pdf)
