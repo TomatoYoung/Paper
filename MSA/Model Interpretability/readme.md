@@ -15,3 +15,8 @@
 #### 博客
 - 讲解稀疏自编码器如何工作，https://www.jiqizhixin.com/articles/2024-08-05-5
 - https://github.com/shehper/sparse-dictionary-learning
+
+## 模型可解释性应用于MSA
+### 文献矩阵
+| 文献 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
