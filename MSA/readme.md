@@ -10,8 +10,6 @@
 - NLP: Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective, https://arxiv.org/pdf/2409.07388
 - A Systematic Review on Multimodal Emotion Recognition: Building Blocks, Current State, Applications, and Challenges, https://ieeexplore.ieee.org/document/10602503?denied=
 
-####
-
 ### 方法
 
 #### 数据集和评估集制作方案
@@ -34,4 +32,6 @@ Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resol
 - SAE, https://cdn.openai.com/papers/sparse-autoencoders.pdf, https://new.qq.com/rain/a/20240607A0101Q00
 - SAE算法用于可解释性, https://www.jiqizhixin.com/articles/2024-08-05-5
 
-
+## 文献矩阵
+| 文献 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
