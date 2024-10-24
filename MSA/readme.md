@@ -35,3 +35,4 @@ Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resol
 ## 文献矩阵
 | 文献 | 研究背景 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Robust-MSA Understanding the Impact of Modality Noise | 现有实验数据集多数经过精心挑选，而实际情况的数据通常包含噪声，因此如何提升模型对噪声的鲁棒性是MSA的关键挑战。| 
