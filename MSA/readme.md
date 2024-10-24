@@ -33,5 +33,5 @@ Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resol
 - SAE算法用于可解释性, https://www.jiqizhixin.com/articles/2024-08-05-5
 
 ## 文献矩阵
-| 文献 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| 文献 | 研究背景 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
