@@ -17,14 +17,19 @@
 - Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis，https://arxiv.org/abs/2405.21075
 
 #### 模型指令微调方案
-Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution，https://arxiv.org/abs/2409.12191
+- Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution，https://arxiv.org/abs/2409.12191
+- llama-factory: LLAMAFACTORY: Unified Efficient Fine-Tuning of 100+ Language Models, https://arxiv.org/pdf/2403.13372
+  https://llamafactory.readthedocs.io/zh-cn/latest/, https://github.com/hiyouga/LLaMA-Factory
 
 #### 多模态差异导致的噪声分析
-- The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787 （关于幻觉的定义参见：https://www.iguazio.com/glossary/llm-hallucination/ ）
+- The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio，https://arxiv.org/abs/2410.12787 （Hallucination的定义参见：https://www.iguazio.com/glossary/llm-hallucination/ ）
 
 #### 模型低秩微调训练方法
 - LoRA: Low-Rank Adaptation of Large Language Models, https://arxiv.org/abs/2106.09685
 - LoRA+: Efficient Low Rank Adaptation of Large Models, https://arxiv.org/abs/2402.12354
+
+#### 使大语言模型可以理解视频中的视听内容
+- video LLAMA: 
 
 ### 算法
 #### SAE算法
