@@ -29,7 +29,10 @@
 - LoRA+: Efficient Low Rank Adaptation of Large Models, https://arxiv.org/abs/2402.12354
 
 #### 使大语言模型可以理解视频中的视听内容
-- video LLAMA: 
+- video LLAMA:
+
+#### 分阶段对齐
+- MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models, https://arxiv.org/pdf/2304.10592
 
 ### 算法
 #### SAE算法
