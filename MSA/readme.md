@@ -47,7 +47,7 @@
 
 ## 数据集
 ### MELD
-- 平均时常 3.几秒
+- 3.+s
 
 ### MOSI
 Average length of opinion segments:4.2s
