@@ -41,6 +41,19 @@
 - SAE算法用于可解释性, https://www.jiqizhixin.com/articles/2024-08-05-5
 
 ## 文献矩阵
-| 文献 | 研究背景 | 研究目标 | 研究方法 | 使用数据集 | 主要结果 | 优点 | 缺点 | 相关性 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Robust-MSA Understanding the Impact of Modality Noise | 现有实验数据集多数经过精心挑选，而实际情况的数据通常包含噪声，因此如何提升模型对噪声的鲁棒性是MSA的关键挑战。| 
+| 文献 | 研究背景&目的 | 研究方法 | 使用数据集 | 主要结果 | 优缺点 | 相关性 |
+| --- | --- | --- |  --- | --- | --- | ---  |
+| Robust-MSA Understanding the Impact of Modality Noise | 背景：现有实验数据集多数经过精心挑选，而实际情况的数据通常包含噪声，因此如何提升模型对噪声的鲁棒性是MSA的关键挑战。<br>目的：为了研究模态噪声对现有模型的影响，本文开发了Robust-MSA，这是一个用于理解模态噪声怎样影响模型的可视化交互平台。| 
+
+## 数据集
+### MELD
+- 平均时常 3.几秒
+
+### MOSI
+Average length of opinion segments:4.2s
+
+### CMU-MOSEI
+7.28s
+
+### CH-SIMS: a Chinese multimodal sentiment analysis datase
+3.67s
